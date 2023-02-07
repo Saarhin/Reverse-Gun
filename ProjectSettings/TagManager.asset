@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Walkable
+  - Bullet
+  - Player
+  - Void
+  - Building
+  - BrickHolder
+  - AirPlatforms
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Platform
+    uniqueID: 1480161689
+    locked: 0
+  - name: Enemy
+    uniqueID: 899460557
+    locked: 0
+  - name: Enemy
+    uniqueID: 3271533471
+    locked: 0
+  - name: Player
+    uniqueID: 2327383959
+    locked: 0
+  - name: Cursor
+    uniqueID: 2150938217
+    locked: 0
